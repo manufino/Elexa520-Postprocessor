@@ -1,2 +1,3 @@
-# Elexa520-Postprocessor
-Fusion 360 postprocessor for Elexa 520, 3 axis CNC milling machine
+#Autodesk Fusion 360 postprocessor 
+
+Elexa 520 - 3 axis, for C.B. Ferrari B15
